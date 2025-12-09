@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "こっち向いてほい",
+  "base_artist": "asmi",
+  "createdAt": "2025-12-09T07:32:14.152353Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "こっち向いてほい",
+      "artist": "asmi",
+      "has_synced": true,
+      "path": "select/01_こっち向いてほい_asmi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "こっち向いてほい",
+      "artist": "asmi",
+      "has_synced": false,
+      "path": "select/pl_01_こっち向いてほい_asmi.txt"
+    }
+  ]
+}
